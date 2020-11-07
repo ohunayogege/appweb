@@ -1,7 +1,7 @@
 import axios from "axios";
 
 export default axios.create({
-  baseURL: "http://localhost/api/",
+  baseURL: "https://ohunayogege.pythonanywhere.com/api/",
   headers: {
     "Content-type": "application/json"
   }
