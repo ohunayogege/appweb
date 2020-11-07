@@ -34,7 +34,7 @@
           <label><strong>Name:</strong></label> {{ currentAppointment.name }}
         </div>
         <div>
-          <label><strong>Description:</strong></label> {{ currentAppointment.action }}
+          <label><strong>Action:</strong></label> {{ currentAppointment.action }}
         </div>
         <div>
           <label><strong>Date:</strong></label> {{ currentAppointment.date }}
